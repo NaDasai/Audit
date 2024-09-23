@@ -1,6 +1,13 @@
 # Audit
 Audit docs.
 
+## Bug Bounties
+- Immunefi : https://immunefi.com/](https://immunefi.com/bug-bounty/
+- Sherlock : https://audits.sherlock.xyz/contests
+- Code4rena : https://code4rena.com/audits
+- Cantina : https://cantina.xyz/bounties
+- Hats : https://app.hats.finance/bug-bounties
+- CodeHawks : https://codehawks.cyfrin.io/contests
 
 ## Move Audit Resources
 This section contains a curated collection of resources focused on auditing Move smart contracts. It includes tools, best practices, checklists, and guidelines to help developers and auditors ensure the security and reliability of Move-based projects.
